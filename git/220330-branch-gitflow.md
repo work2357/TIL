@@ -15,6 +15,8 @@
 
 - merge: 해당하는 파일에서 다른 파일을 '당겨옴'
 
+***
+
 ## branching models
 
 - git flow (가장 많이 쓰임)
