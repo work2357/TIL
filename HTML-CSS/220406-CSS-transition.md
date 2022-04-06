@@ -24,7 +24,7 @@
 - ease-out : 빠르게-느리게
 - ease-in-out : 느리게-빠르게-느리게
 - cubic-bezier(n,n,n,n) : 자신만의 값을 정의(0~1)
-- steps(n) : n번 분할된 애니메이
+- steps(n) : n번 분할된 애니메이션
 
 ## transition-delay
 : 전환 효과가 몇 초 뒤에 시작할지 대기시간을 지정
