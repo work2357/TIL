@@ -31,3 +31,15 @@
 
 - hover에 animation-play-state: paused;
 	: 마우스 올렸을 때 일시정지하라.
+
+## animation-direction
+- normal : 기본값
+- reverse : 반대로
+- alternate : 왕복운동
+- alternate-reverse : 반대로 왕복운동
+
+## animation-fill-mode
+- none : 기존 위치로 시작 -> 애니메이션 시작 위치로 이동 -> 동작 -> 기존 위치에서 끝 (기본값)
+- forwards : 기존 위치에서 시작 -> 애니메이션 시작 위치로 이동 -> 동작 -> 애니메이션 끝 위치에서 끝
+- backwards : 애니메이션 시작 위치에서 시작 -> 동작 -> 기존 위치에서 끝
+- both : 애니메이션 시작 위치에서 시작 -> 동작 -> 애니메이션 위치에서 끝
